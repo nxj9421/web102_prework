@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://youtu.be/fG2h8hsl3O4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://youtu.be/fG2h8hsl3O4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
