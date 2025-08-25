@@ -18,8 +18,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='https://youtu.be/fG2h8hsl3O4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Watch this video](https://youtu.be/fG2h8hsl3O4)
 
 ## License
 
